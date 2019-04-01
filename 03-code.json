@@ -1,0 +1,32 @@
+{
+    "http.proxy": "http://txp-01.tencent.com:8080",
+    "workbench.iconTheme": "material-icon-theme",
+    "materialTheme.accent": "Cyan",
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#00BCD4",
+        "list.activeSelectionForeground": "#00BCD4",
+        "list.inactiveSelectionForeground": "#00BCD4",
+        "list.highlightForeground": "#00BCD4",
+        "scrollbarSlider.activeBackground": "#00BCD450",
+        "editorSuggestWidget.highlightForeground": "#00BCD4",
+        "textLink.foreground": "#00BCD4",
+        "progressBar.background": "#00BCD4",
+        "pickerGroup.foreground": "#00BCD4",
+        "tab.activeBorder": "#00BCD4",
+        "notificationLink.foreground": "#00BCD4",
+        "editorWidget.resizeBorder": "#00BCD4",
+        "editorWidget.border": "#00BCD4",
+        "settings.modifiedItemIndicator": "#00BCD4",
+        "settings.headerForeground": "#00BCD4",
+        "panelTitle.activeBorder": "#00BCD4",
+        "breadcrumb.activeSelectionForeground": "#00BCD4",
+        "menu.selectionForeground": "#00BCD4",
+        "menubar.selectionForeground": "#00BCD4"
+    },
+    "editor.fontFamily": " 'Ubuntu Mono', 'Courier New', monospace,Monaco, Consolas",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "editor.fontSize": 18,
+    "files.eol": "\n",
+    "explorer.confirmDelete": false
+}
